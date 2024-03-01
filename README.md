@@ -1,4 +1,4 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hello, I'm Yun Sang Jeong 👋
 
 #### AI Researcher / Data Engineering
 Developers who create beneficial social values   
