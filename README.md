@@ -19,8 +19,8 @@ Developer who develops better control algorithm for hard terrain
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgf7404@naver.com)](fgf7404@naver.com)
 
 
-🤖 Research Interests
-
+🤖 Research Interests  
+Rover control
 Reinforcement learning control   
 Quadrupdal robot
 
